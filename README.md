@@ -25,3 +25,6 @@ A container shares the host computer's OS this makes it lighter and more nimble.
 
 Advantages of images being read-only include: keeping them more secure, reducing the risk of incorrect modifications and allowing for easier rollback since there will be a previous copy of the image.
 Disadvantages of images being read-only could be a lack of flexibility even for small changes and an increase in storage that the total number of images will take up.
+
+## AI Declaration
+[AI Declaration Form](L4_AI_DECLARATION_ERIK_SCHAUFELE_301579449.pdf)
