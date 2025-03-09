@@ -23,3 +23,5 @@ A container shares the host computer's OS this makes it lighter and more nimble.
 
 3. Discuss the significance of Docker images being read-only. How might this feature be advantageous or disadvantageous in application development?
 
+Advantages of images being read-only include: keeping them more secure, reducing the risk of incorrect modifications and allowing for easier rollback since there will be a previous copy of the image.
+Disadvantages of images being read-only could be a lack of flexibility even for small changes and an increase in storage that the total number of images will take up.
