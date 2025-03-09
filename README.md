@@ -4,6 +4,6 @@
 
 ![GitHub Actions Hello](GitHub_Actions.png)
 
-## GitHub Actions Skills Test
+## GitHub Test With Actions
 
-![GitHub Actions Skills Test](GitHub_Actions_Test.png)
+![GitHub Test With Actions](GitHub_Actions_Test.png)
