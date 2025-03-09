@@ -2,4 +2,4 @@
 
 ## GitHub Actions Hello
 
-![GitHub Actions Hello](GitGub_Actions.pdf)
+![GitHub Actions Hello](GitHub_Actions.pdf)
